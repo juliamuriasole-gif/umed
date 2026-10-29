@@ -12,7 +12,7 @@ A web app I built for my IB Computer Science Internal Assessment (2024–25). My
 
 ## Stack
 
-- PHP 8 with PDO, MySQL / MariaDB
+- PHP with PDO, MySQL / MariaDB
 - HTML, CSS and vanilla JavaScript
 - Apache on Ubuntu (LAMP)
 - FPDF 1.86 (bundled in `fpdf/`, under its own licence)
@@ -20,7 +20,7 @@ A web app I built for my IB Computer Science Internal Assessment (2024–25). My
 
 ## Running it locally
 
-1. Install PHP 8, MySQL and Apache (or run `php -S localhost:8000` in this folder).
+1. Install PHP, MySQL and Apache (or run `php -S localhost:8000` in this folder).
 2. Create a `umed` database and the tables `users`, `countries`, `documents`, `requests`, `speaking_map`, `voting_sessions` and `votes` (see the queries in the PHP files).
 3. Copy `config.example.php` to `config.php` and enter your database details. `config.php` is gitignored.
 4. Make sure `uploads/` is writable by the web server.
