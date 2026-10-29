@@ -1,5 +1,9 @@
 # UMed – Union for the Mediterranean summit app
 
+> **Academic integrity notice:** this work was submitted for the IB Diploma Programme (IB Computer Science Internal Assessment) and has been assessed. It is shared as a portfolio piece only. Do not copy or submit any part of it for assessment; doing so is academic misconduct under the IB Academic Integrity Policy.
+>
+> © 2025 Júlia Muria Solé. All rights reserved. See [COPYRIGHT](COPYRIGHT). Not endorsed by the International Baccalaureate Organization.
+
 A web app I built for my IB Computer Science Internal Assessment (2024–25). My school runs a yearly mock **Union for the Mediterranean** assembly, where students represent countries, submit proposals, ask to speak and vote. The teacher running it was relying on an old tool plus manual work, so I built one platform that handles the whole event.
 
 ## What it does
