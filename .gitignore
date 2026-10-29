@@ -1,0 +1,11 @@
+config.php
+.env
+node_modules/
+*.swp
+*.save
+nohup.out
+*.zip
+*.avi
+*.mp4
+uploads/*
+!uploads/.gitkeep
